@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**Rajkapoor393/Rajkapoor393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Hi, I'm [Raj Kapoor!] 👋
 
 <a href="https://www.linkedin.com/in/raj-kapoor-953502141/">
@@ -22,10 +6,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/rajkapoor393">
   <img align="left" alt="Raj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
-
-
-
 <br/>
 <br/>
 
@@ -38,7 +18,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning related stuff.
 - ⚡ Fun fact: Still Exploring.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![Linkedin: rajkapoor393](https://img.shields.io/badge/-rajkapoor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raj-kapoor-953502141/)](https://www.linkedin.com/in/raj-kapoor-953502141/)
 [![GitHub rajkapoor393](https://img.shields.io/github/followers/rajkapoor393?label=follow&style=social)](https://github.com/rajkapoor393)
 
