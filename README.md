@@ -21,15 +21,13 @@
 [![Linkedin: rajkapoor393](https://img.shields.io/badge/-rajkapoor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raj-kapoor-953502141/)](https://www.linkedin.com/in/raj-kapoor-953502141/)
 [![GitHub rajkapoor393](https://img.shields.io/github/followers/rajkapoor393?label=follow&style=social)](https://github.com/rajkapoor393)
 
+<a href="https://github.com/rajkapoor393">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkapoor393&theme=light&hide_langs_below=1" />
+</a>
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<a href="https://github.com/rajkapoor393">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkapoor393&show_icons=true&theme=light&line_height=27" alt="Raj's github stats"/>
+</a>
 
 
 <div align="center">
