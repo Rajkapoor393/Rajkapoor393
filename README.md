@@ -22,7 +22,7 @@
 [![GitHub rajkapoor393](https://img.shields.io/github/followers/rajkapoor393?label=follow&style=social)](https://github.com/rajkapoor393)
 
 <a href="https://github.com/rajkapoor393">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkapoor393&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkapoor393&theme=tokyonight&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/rajkapoor393">
