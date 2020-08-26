@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on Machine Learning Projects.
 - 🤔 I’m looking for help with Computer Vision.
 - 💬 Ask me about Machine Learning related stuff.
-- ⚡ Fun fact: Still Exploring.
+- ⚡ Fun fact: Watching cricket.
 
 [![Linkedin: rajkapoor393](https://img.shields.io/badge/-rajkapoor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raj-kapoor-953502141/)](https://www.linkedin.com/in/raj-kapoor-953502141/)
 [![GitHub rajkapoor393](https://img.shields.io/github/followers/rajkapoor393?label=follow&style=social)](https://github.com/rajkapoor393)
